@@ -1,4 +1,5 @@
 name: Feature template
+description: Future work
 labels: 'enhancement'
 projects: IMAP
 body:

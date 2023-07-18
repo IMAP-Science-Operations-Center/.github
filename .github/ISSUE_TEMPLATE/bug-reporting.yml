@@ -1,4 +1,5 @@
 name: Bug reporting
+description: Reporting new bugs
 title: 'BUG -'
 labels: bug
 projects: IMAP
