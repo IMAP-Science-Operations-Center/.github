@@ -1,8 +1,6 @@
 name: Bug reporting
-about: Reporting new bugs
-title: ''
-labels: ''
-assignees: ''
+title: 'BUG -'
+labels: bug
 projects: IMAP
 body:
 - type: textarea
