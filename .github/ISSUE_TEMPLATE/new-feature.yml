@@ -1,0 +1,22 @@
+name: Feature template
+about: Future work
+title: ''
+labels: ''
+assignees: ''
+projects: IMAP
+body:
+- type: textarea
+  attributes:
+    label: Summary
+    description: Summarize the feature here.
+- type: textarea
+  attributes:
+    label: Requirements
+    value: |
+      The more specific the better.
+        - [ ]
+        - [ ]
+- type: textarea
+  attributes:
+    label: Related tickets
+    description: \-
