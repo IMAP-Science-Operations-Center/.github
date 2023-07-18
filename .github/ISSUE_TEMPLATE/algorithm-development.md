@@ -17,7 +17,7 @@ projects: IMAP
 > Input data:
 > > **Specify details:**
 >
-> Algorithim steps/psuedocode:
+> Algorithm steps/psuedocode:
 > > **Specify details:**
 >
 > Output data:
@@ -30,7 +30,7 @@ projects: IMAP
 # Code
 ```
 
-#### Specify if any dependicies were added
+#### Specify if any dependencies were added
 
 
 
