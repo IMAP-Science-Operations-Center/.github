@@ -2,6 +2,7 @@ name: L5 Requirement
 description: Create an L5 requirement
 title: "[L5] "
 labels: ["Requirement: Level 5"]
+projects: IMAP
 
 body:
 - type: markdown

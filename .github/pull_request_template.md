@@ -26,7 +26,7 @@ updated code in the file is serving-->
    - description of change 1 in file 1
    - description of change 2 in file 2
 - updated file 2
-   - descipriton of change 1 in file 2
+   - description of change 1 in file 2
 
 ## Testing
 <!--List any relevant testing information like number of unit tests added, any new tests being skipped and the reason why, etc.-->

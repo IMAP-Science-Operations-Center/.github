@@ -1,0 +1,24 @@
+name: Feature template
+description: Future work
+labels: 'enhancement'
+projects: IMAP
+body:
+# This field is only shown while creating the issue, and will not be part of the issue text.
+- type: markdown 
+  attributes:
+    value: Please add any additional labels to the issue for the given requirements or instruments.
+- type: textarea
+  attributes:
+    label: Summary
+    description: Summarize the feature here.
+- type: textarea
+  attributes:
+    label: Requirements
+    value: |
+      The more specific the better.
+        - [ ]
+        - [ ]
+- type: textarea
+  attributes:
+    label: Related tickets
+    description: \-
