@@ -9,28 +9,28 @@ body:
     label: "## Description of the issue"
 - type: textarea
   attributes:
-    label: "### Steps to reproduce the issue
+    label: "Steps to reproduce the issue
 
     1.
     2.
     3."
 - type: textarea
   attributes:
-    label: "### Code Snippet:"
-    value: "# Code"
+    label: "Code Snippet:"
+    value: " Code"
     render: python
 - type: textarea
   attributes:
-    label: "### Expected behavior (What should happen)"
+    label: "Expected behavior (What should happen)"
 - type: textarea
   attributes:
-    label: "### Actual behavior (What does happen)"
+    label: "Actual behavior (What does happen)"
 - type: textarea
   attributes:
-    label: "#### Additional notes"
+    label: "Additional notes"
 - type: textarea
   attributes:
-    label: "### Affected areas (code, data, or process)"
+    label: "Affected areas (code, data, or process)"
 - type: textarea
   attributes:
-    label: "### Suggested fix?"
+    label: "Suggested fix?"
