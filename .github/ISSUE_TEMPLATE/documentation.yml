@@ -1,6 +1,5 @@
 name: Documentation Issue
 description: Creating or updating documentation 
-title: ''
 labels: documentation
 projects: IMAP
 body:
