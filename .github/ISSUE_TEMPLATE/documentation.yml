@@ -1,0 +1,12 @@
+name: Documentation Issue
+description: Creating or updating documentation 
+title: ''
+labels: documentation
+projects: IMAP
+body:
+- type: textarea
+  attributes:
+    label: "Overview"
+- type: textarea
+  attributes:
+    label: "Related documents or information sources"

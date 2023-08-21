@@ -1,0 +1,37 @@
+name: Algorithm Development template
+description: Development of algorithms for processing
+projects: IMAP
+body:
+# This field is only shown while creating the issue, and will not be part of the issue text.
+- type: markdown 
+  attributes:
+    value: Please add any additional labels to the issue for the given requirements or instruments.
+- type: textarea
+  attributes:
+    label: "Algorithm Description"
+    description: Summerize or describe the algorithm 
+- type: textarea
+  attributes:
+    label: "Requirements"
+- type: textarea
+  attributes:
+    label: "Algorithm Code information"
+    description: Describe inputs, outputs, and basic algorithm 
+    value: |
+    > Input data:
+    > > **Specify details:**
+    >
+    > Algorithm steps/psuedocode:
+    > > **Specify details:**
+    >
+    > Output data:
+    > > **Specify details:**
+- type: textarea
+  attributes:
+    label: Dependencies 
+    description: Describe any additonal dependencies, such as other tickets blocking development
+- type: textarea
+  attributes:
+    label: Related issues/PRS 
+    description: Include any related issues or PRs here.  
+
