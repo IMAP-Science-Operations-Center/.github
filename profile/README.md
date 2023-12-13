@@ -58,7 +58,7 @@ The following languages, tools, and libraries are used to support the work that 
 ### Useful Links
 
 <ul>
-  <li>[IMAP Website](https://imap.princeton.edu/)</li>
-  <li>[Official Software Documentation](https://imap-processing.readthedocs.io/en/latest/)/li>
-  <li>[Internal IMAP Documentation](https://lasp.colorado.edu/galaxy/display/IMAP/)</li>
+  <li><a href="https://imap.princeton.edu/">IMAP website</a></li>
+  <li><a href="https://imap-processing.readthedocs.io/en/latest/">Official Software Documentation</a></li>
+  <li><a href="https://lasp.colorado.edu/galaxy/display/IMAP/">Internal IMAP Documentation</a></li>
 </ul>
