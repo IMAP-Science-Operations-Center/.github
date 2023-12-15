@@ -25,6 +25,16 @@
 
 <br>
 
+### Useful Links
+
+<ul>
+  <li><a href="https://imap.princeton.edu/">IMAP website</a></li>
+  <li><a href="https://imap-processing.readthedocs.io/en/latest/">Official Software Documentation</a></li>
+  <li><a href="https://lasp.colorado.edu/galaxy/display/IMAP/">Internal IMAP Documentation</a></li>
+</ul>
+
+<br>
+
 ### Languages, Tools, and Libraries
 
 The following languages, tools, and libraries are used to support the work that we do!
@@ -53,12 +63,3 @@ The following languages, tools, and libraries are used to support the work that 
 [<img src="https://www2.jpl.nasa.gov/iae/highlights/yr-end99/SPICE/NaifLogoColor_shdw.jpg" alt="spice" width="60" height="60"/>](https://naif.jpl.nasa.gov/naif/toolkit.html)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="sqlalchemy" width="60" height="60"/>](https://www.sqlalchemy.org/)
 [<img src="https://pydata.org/wp-content/uploads/2018/09/xarray-logo-square.png" alt="xarray" width="60" height="60"/>](https://docs.xarray.dev)
-
-
-### Useful Links
-
-<ul>
-  <li><a href="https://imap.princeton.edu/">IMAP website</a></li>
-  <li><a href="https://imap-processing.readthedocs.io/en/latest/">Official Software Documentation</a></li>
-  <li><a href="https://lasp.colorado.edu/galaxy/display/IMAP/">Internal IMAP Documentation</a></li>
-</ul>
