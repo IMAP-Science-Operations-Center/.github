@@ -18,7 +18,7 @@
 |---|---| 
 | [imap_processing](https://github.com/IMAP-Science-Operations-Center/imap_processing) | Software for performing L0->L3 data processing | 
 | [sds-data-manager](https://github.com/IMAP-Science-Operations-Center/sds-data-manager) | Software for building and configuring AWS architecture to support data processing | 
-| [imap-data-access](https://github.com/IMAP-Science-Operations-Center/imap-data-access) | Tools for users to upload, download, and query data from the IMAP Science Data Center | 
+| [imap-data-access](https://github.com/IMAP-Science-Operations-Center/imap-data-access) | Package and command line utility for users to download, query, and upload data from the IMAP Science Data Center | 
 | [imap_python_processing_example](https://github.com/IMAP-Science-Operations-Center/imap_python_processing_example) | Contains an example for containerizing algorithm software written in Python | 
 | [imap_matlab_processing_example](https://github.com/IMAP-Science-Operations-Center/imap_matlab_processing_example) | Contains an example for containerizing algorithm software written in MATLAB | 
 | [.github](https://github.com/IMAP-Science-Operations-Center/.github) | Contains workflows, templates, and other files that are common to all organization repositories |
