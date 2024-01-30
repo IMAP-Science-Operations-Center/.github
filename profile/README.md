@@ -18,7 +18,7 @@
 |---|---| 
 | [imap_processing](https://github.com/IMAP-Science-Operations-Center/imap_processing) | Software for performing L0->L3 data processing | 
 | [sds-data-manager](https://github.com/IMAP-Science-Operations-Center/sds-data-manager) | Software for building and configuring AWS architecture to support data processing | 
-| [sds-access-lib](https://github.com/IMAP-Science-Operations-Center/sds-access-lib) | Contains a simple script that allows a user to upload, query, and download data from the IMAP Science Data Center | 
+| [imap-data-access](https://github.com/IMAP-Science-Operations-Center/imap-data-access) | Package and command line utility for users to download, query, and upload data from the IMAP Science Data Center | 
 | [imap_python_processing_example](https://github.com/IMAP-Science-Operations-Center/imap_python_processing_example) | Contains an example for containerizing algorithm software written in Python | 
 | [imap_matlab_processing_example](https://github.com/IMAP-Science-Operations-Center/imap_matlab_processing_example) | Contains an example for containerizing algorithm software written in MATLAB | 
 | [.github](https://github.com/IMAP-Science-Operations-Center/.github) | Contains workflows, templates, and other files that are common to all organization repositories |
@@ -49,6 +49,7 @@ The following languages, tools, and libraries are used to support the work that 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/>](https://www.linux.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="60" height="60"/>](https://www.mathworks.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="60" height="60"/>](https://numpy.org/)
+[<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*4UiSxxmeMwu_wLpSeaBK6w.png" alt="openapi" width="60" height="60"/>](https://www.openapis.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="60" height="60"/>](https://pandas.pydata.org)
 [<img src="https://python-poetry.org/images/logo-origami.svg" alt="poetry" width="60" height="60"/>](https://python-poetry.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/>](https://www.postgresql.org/)
