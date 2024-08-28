@@ -22,6 +22,7 @@
 | [imap_python_processing_example](https://github.com/IMAP-Science-Operations-Center/imap_python_processing_example) | Contains an example for containerizing algorithm software written in Python | 
 | [imap_matlab_processing_example](https://github.com/IMAP-Science-Operations-Center/imap_matlab_processing_example) | Contains an example for containerizing algorithm software written in MATLAB | 
 | [.github](https://github.com/IMAP-Science-Operations-Center/.github) | Contains workflows, templates, and other files that are common to all organization repositories |
+| [SAMMI](https://github.com/swxsoc/sammi/) | Contains tools for managing CDF metadata, created as a collaboration between SWxSOC and IMAP SDC |
 
 <br>
 
