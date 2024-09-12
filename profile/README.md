@@ -17,9 +17,9 @@
 | Name | Description | 
 |---|---| 
 | [imap_processing](https://github.com/IMAP-Science-Operations-Center/imap_processing) | Software for performing L0->L2 data processing | 
+| [imap_L3_processing](https://github.com/IMAP-Science-Operations-Center/imap_L3_processing) | Software for performing L3 data processing |
 | [sds-data-manager](https://github.com/IMAP-Science-Operations-Center/sds-data-manager) | Software for building and configuring AWS architecture to support data processing | 
 | [imap-data-access](https://github.com/IMAP-Science-Operations-Center/imap-data-access) | Package and command line utility for users to download, query, and upload data from the IMAP Science Data Center | 
-| [imap_L3_processing](https://github.com/IMAP-Science-Operations-Center/imap_L3_processing) | Software for performing L3 data processing |
 | [SAMMI](https://github.com/swxsoc/sammi/) | Contains tools for managing CDF metadata, created as a collaboration between SWxSOC and IMAP SDC |
 | [imap_python_processing_example](https://github.com/IMAP-Science-Operations-Center/imap_python_processing_example) | Contains an example for containerizing algorithm software written in Python | 
 | [imap_matlab_processing_example](https://github.com/IMAP-Science-Operations-Center/imap_matlab_processing_example) | Contains an example for containerizing algorithm software written in MATLAB | 
