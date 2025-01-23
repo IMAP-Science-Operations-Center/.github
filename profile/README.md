@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <a href="https://imap.princeton.edu/" target="_blank">
-        <img src="https://imap.princeton.edu/sites/g/files/toruqf1601/files/imap-mark-hor-multicolor-dark.png" style="display: block; width: 50%;"/>
+        <img src="https://imap.princeton.edu/sites/g/files/toruqf1601/files/imap-mark-hor-multicolor-dark.png" width="50%"/>
     </a>
     <h1>Welcome to the IMAP Science Operations Center<br>GitHub Organization</h1>
     <p>
