@@ -22,7 +22,6 @@
 | [imap-data-access](https://github.com/IMAP-Science-Operations-Center/imap-data-access) | Package and command line utility for users to download, query, and upload data from the IMAP Science Data Center | 
 | [imap-sdc-website](https://github.com/IMAP-Science-Operations-Center/imap-sdc-website) | Materials for the IMAP SDC website | 
 | [ialirt-data-access](https://github.com/IMAP-Science-Operations-Center/ialirt-data-access) | Package and command line utility for users to download and query data from I-ALiRT | 
-| [SAMMI](https://github.com/swxsoc/sammi/) | Contains tools for managing CDF metadata, created as a collaboration between SWxSOC and IMAP SDC |
 | [imap_python_processing_example](https://github.com/IMAP-Science-Operations-Center/imap_python_processing_example) | Contains an example for containerizing algorithm software written in Python | 
 | [imap_matlab_processing_example](https://github.com/IMAP-Science-Operations-Center/imap_matlab_processing_example) | Contains an example for containerizing algorithm software written in MATLAB | 
 | [.github](https://github.com/IMAP-Science-Operations-Center/.github) | Contains workflows, templates, and other files that are common to all organization repositories |
@@ -43,6 +42,14 @@
 
 The following languages, tools, and libraries are used to support the work that we do!
 
+#### SDC or LASP Managed tools
+| Name | Description | 
+|---|---| 
+| [cdflib](https://github.com/MAVENSDC/cdflib) | Tools for reading and writing CDF files |
+| [SAMMI](https://github.com/swxsoc/sammi/) | Contains tools for managing CDF metadata, created as a collaboration between SWxSOC and IMAP SDC |
+| [Space packet parser](https://github.com/lasp/space_packet_parser) | Packet reading library for processing CCSDS packets|
+
+#### Other tools
 [<img src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" alt="aws" width="60" height="60"/>](https://aws.amazon.com/)
 [<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--pvYK2BAd--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://thepracticaldev.s3.amazonaws.com/i/061ye176kky7igpkcrhk.png" alt="black" width="60" height="60"/>](https://pypi.org/project/black/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codecov/codecov-plain.svg" alt="codecov" width="60" height="60"/>](https://about.codecov.io/)
