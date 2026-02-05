@@ -1,0 +1,12 @@
+name: Question template
+description: Questions
+projects: IMAP
+body:
+  - type: textarea
+    attributes:
+      label: Summary
+      description: Summarize the question here.
+  - type: textarea
+    attributes:
+      label: Existing docs consulted
+      description: What existing documentation did you consult? (This helps us update and organize our documentation)
