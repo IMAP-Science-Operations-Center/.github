@@ -6,7 +6,7 @@
 
 ## File changes
 
-<!--List each added, deleted, or updated file and add bullets to describe the purpose/function of the changes.
+<!--Add a list or paragraph describing the purpose/function of the changes.
 This should be high level, but enough detail for the reviewer to understand what purpose(s) the
 updated code in the file is serving-->
 
