@@ -10,11 +10,6 @@
 This should be high level, but enough detail for the reviewer to understand what purpose(s) the
 updated code in the file is serving-->
 
-- updated file 1
-  - description of change 1 in file 1
-  - description of change 2 in file 2
-- updated file 2
-  - description of change 1 in file 2
 
 ## Testing
 
