@@ -13,6 +13,7 @@ body:
       label: Instrument
       description: Which instrument?
       placeholder: "e.g., MAG, GLOWS"
+    validations:
       required: true
   
   - type: input
@@ -20,6 +21,7 @@ body:
       label: Start Date of the data to release
       description: Start date of the date range for data to release (format YYYYMMDD)
       placeholder: "YYYYMMDD (e.g., 20260101)"
+    validations:
       required: true
   
   - type: input
@@ -27,6 +29,7 @@ body:
       label: End Date of the data to release
       description: End date of the date range for data to release (format YYYYMMDD)
       placeholder: "YYYYMMDD (e.g., 20260531)"
+    validations:
       required: true
   
   - type: dropdown
@@ -37,6 +40,7 @@ body:
         - release
         - unrelease
         - early_release
+    validations:
       required: true
   
   - type: input
@@ -52,7 +56,6 @@ body:
       options:
         - label: Ancillary
         - label: Science
-          checked: true
   
   - type: input
     attributes:

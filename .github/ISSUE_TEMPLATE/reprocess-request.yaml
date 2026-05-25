@@ -13,6 +13,7 @@ body:
       label: Instrument Information
       description: Which instrument?
       placeholder: Please specify the instrument
+    validations:
       required: true
 
   - type: textarea
@@ -22,6 +23,7 @@ body:
       value: |
         Start Date: 
         End Date:
+    validations:
       required: true
 
   - type: input
@@ -29,6 +31,7 @@ body:
       label: Due Date
       description: This is a required field. Please provide the deadline for this reprocessing request.
       placeholder: "YYYY-MM-DD"
+    validations:
       required: true
 
   - type: textarea
@@ -36,7 +39,6 @@ body:
       label: Product/Data Level
       description: What product or data level needs to be reprocessed?
       placeholder: Please specify the product or data level
-      required: false
 
   - type: textarea
     attributes:
