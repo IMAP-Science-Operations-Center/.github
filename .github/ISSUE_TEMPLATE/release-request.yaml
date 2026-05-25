@@ -1,0 +1,73 @@
+name: Release Request
+description: Template for data release requests
+title: "[RELEASE] "
+labels: 
+  - release
+body:
+  - type: markdown
+    attributes:
+      value: Please provide all required information for this data release request. This follows the imap-data-access release command structure.
+  
+  - type: input
+    attributes:
+      label: Instrument
+      description: Which instrument?
+      placeholder: "e.g., MAG, GLOWS"
+      required: true
+  
+  - type: input
+    attributes:
+      label: Start Date of the data to release
+      description: Start date of the date range for data to release (format YYYYMMDD)
+      placeholder: "YYYYMMDD (e.g., 20260101)"
+      required: true
+  
+  - type: input
+    attributes:
+      label: End Date of the data to release
+      description: End date of the date range for data to release (format YYYYMMDD)
+      placeholder: "YYYYMMDD (e.g., 20260531)"
+      required: true
+  
+  - type: dropdown
+    attributes:
+      label: Release Type
+      description: Type of release
+      options:
+        - release
+        - unrelease
+        - early_release
+      required: true
+  
+  - type: input
+    attributes:
+      label: Release Number
+      description: Release number (required if release-type is "release"; optional for early releases)
+      placeholder: "e.g., 1, 2, 3"
+  
+  - type: checkboxes
+    attributes:
+      label: Data Type
+      description: Data type(s) to release (select one or both)
+      options:
+        - label: Ancillary
+        - label: Science
+          checked: true
+  
+  - type: input
+    attributes:
+      label: Descriptor
+      description: Data descriptor for the release (optional)
+      placeholder: "e.g., filtering subset data by descriptor"
+  
+  - type: textarea
+    attributes:
+      label: Release Notes
+      description: Any additional notes or release information
+      placeholder: |
+        [Release notes and details here]
+  
+  - type: textarea
+    attributes:
+      label: Additional Information
+      description: Add any other relevant details or special requirements here
