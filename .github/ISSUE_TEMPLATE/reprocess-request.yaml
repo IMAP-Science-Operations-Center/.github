@@ -1,0 +1,44 @@
+name: Reprocess Request
+description: Template for reprocessing requests
+title: "[REPROCESS] "
+labels:
+  - reprocess
+body:
+  - type: markdown
+    attributes:
+      value: Please provide all required information for this reprocessing request.
+
+  - type: textarea
+    attributes:
+      label: Instrument Information
+      description: Which instrument?
+      placeholder: Please specify the instrument
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Reprocessing Date Range
+      description: What date range should be reprocessed?
+      value: |
+        Start Date: 
+        End Date:
+      required: true
+
+  - type: input
+    attributes:
+      label: Due Date
+      description: This is a required field. Please provide the deadline for this reprocessing request.
+      placeholder: "YYYY-MM-DD"
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Product/Data Level
+      description: What product or data level needs to be reprocessed?
+      placeholder: Please specify the product or data level
+      required: false
+
+  - type: textarea
+    attributes:
+      label: Additional Information
+      description: Add any other relevant details or special requirements here
