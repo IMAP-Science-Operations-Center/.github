@@ -1,44 +1,48 @@
 name: Reprocess Request
-description: Template for reprocessing requests
+description: Template for product reprocessing requests
 title: "[REPROCESS] "
 labels:
   - reprocess
 body:
   - type: markdown
     attributes:
-      value: Please provide all required information for this reprocessing request.
+      value: Please provide all required information for this product reprocessing request.
 
-  - type: textarea
+  - type: input
     attributes:
-      label: Instrument Information
-      description: Which instrument?
-      placeholder: Please specify the instrument
-    validations:
-      required: true
-
-  - type: textarea
-    attributes:
-      label: Reprocessing Date Range
-      description: What date range should be reprocessed?
-      value: |
-        Start Date: 
-        End Date:
+      label: Instrument
+      description: Which instrument? It can be one or more instruments.
+      placeholder: "e.g., MAG, GLOWS"
     validations:
       required: true
 
   - type: input
     attributes:
-      label: Due Date
-      description: This is a required field. Please provide the deadline for this reprocessing request.
-      placeholder: "YYYY-MM-DD"
+      label: Start Date of the data to reprocess
+      description: Start date of the date range for data to reprocess (format YYYYMMDD)
+      placeholder: "YYYYMMDD (e.g., 20260101)"
     validations:
       required: true
 
-  - type: textarea
+  - type: input
     attributes:
-      label: Product/Data Level
+      label: End Date of the data to reprocess
+      description: End date of the date range for data to reprocess (format YYYYMMDD)
+      placeholder: "YYYYMMDD (e.g., 20260531)"
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Data Level
       description: What product or data level needs to be reprocessed?
-      placeholder: Please specify the product or data level
+      placeholder: "e.g., L1A, L2, L3"
+
+  - type: input
+    attributes:
+      label: Descriptor
+      description: Data descriptor for the reprocessing (optional)
+      placeholder: "e.g., reprocessing only certain descriptor"
 
   - type: textarea
     attributes:

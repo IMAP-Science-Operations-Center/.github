@@ -11,7 +11,7 @@ body:
   - type: input
     attributes:
       label: Instrument
-      description: Which instrument?
+      description: Which instrument? It can be one or more instruments.
       placeholder: "e.g., MAG, GLOWS"
     validations:
       required: true
