@@ -4,9 +4,9 @@
     </a>
     <h1>Welcome to the IMAP Science Operations Center<br>GitHub Organization</h1>
     <p>
-        This GitHub organization contains repositories used to support the IMAP Science Operations Center (SOC). The IMAP SOC, located at the Laboratory for Atmospheric and Space Physics (LASP),
-        is responsible for all aspects of instrument operations, including planning, commanding, heath and status monitoring, anomaly response, and sustaining engineering for the instruments.
-        The SOC also handles science data processing (including data calibration, validation, and preliminary analysis), distribution, archiving, and maintaining the IMAP data management plan.
+        This GitHub organization contains repositories used to support the IMAP Science Operations Center (SOC). The IMAP SOC is responsible for all aspects of instrument operations, 
+        including planning, commanding, heath and status monitoring, anomaly response, and sustaining engineering for the instruments. The SOC also handles science data processing 
+        (including data calibration, validation, and preliminary analysis), distribution, archiving, and maintaining the IMAP data management plan.
     </p>
 </div>
 
